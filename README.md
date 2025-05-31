@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ashi-78/ashi-78/main/Banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ashi-78/ashi-78/main/banner.jpg" alt="Banner" width="100%" />
 </div>
 
 
