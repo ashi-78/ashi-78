@@ -2,8 +2,9 @@
 
 
 <div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
+  <img src="https://raw.githubusercontent.com/ashi-78/ashi-78/main/Banner.png" alt="Banner" width="100%" />
 </div>
+
 
 
 <br>
