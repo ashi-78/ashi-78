@@ -1,6 +1,8 @@
+<body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);"><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="20"></body>
+
+
+
 <h1 align="center">Hi , I'm Ashi Kashyap <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/ashi-78/ashi-78/main/banner.jpg" alt="Banner" width="100%" />
 </div>
@@ -41,16 +43,16 @@ About Me: 😊<br/><br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashi-k-a89061304" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="81" height="81">
   </a>
   <a href="https://www.facebook.com/share/19j45P5dsL/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+   <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="81" height="81">
   </a>
   <a href="https://www.instagram.com/thedreamweaver.22?igsh=ZGEzNHMydHdhOGd4" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="81" height="81">
   </a>
   <a href="mailto:ashikashyap131@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+   <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="81" height="81">
   </a>
 </p>
 
@@ -90,7 +92,7 @@ About Me: 😊<br/><br/>
  Fun Fact:
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Coffee+%2B+Code+=+Magic+%E2%98%95;Always+coding+with+a+smile+%F0%9F%98%8A" alt="Fun Fact Typing" />
+ <body style="margin: 0px; border:15px height: 100%; background-color: rgb(14, 14, 14);"><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000" height="150"></body>
 </div>
 
 <br/>
@@ -101,12 +103,16 @@ About Me: 😊<br/><br/>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/manishsingh-78/count.svg" alt="Visitor Count" />
+
 </p>
 
 <br/>
 
 ---
 
-> "The only way to do great work is to love what you do."  — Steve Jobs
+> "Success is not final, failure is not fatal: It is the courage to continue that counts."  — Winston Churchill
+
 
 ---
+<body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);"><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000" height="30"></body>
+<body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);"><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="20"></body>
