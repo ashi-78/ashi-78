@@ -25,8 +25,11 @@
 <img align="right";-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="351" height="310">
 
 
-About Me: 😊<vr/><br/>
-"I'm a Full Stack Developer with a strong passion for crafting robust and user-centric web applications. Continuously driven to explore new technologies, improve my skill set, and solve complex problems through clean, efficient, and maintainable code."
+About Me: 😊<br/><br/>
+• Full Stack Developer with a strong passion for building modern web applications.<br/>
+• Focused on creating robust, user-centric, and responsive digital experiences.<br/>
+• Enthusiastic about problem-solving and debugging.<br/>
+• Committed to improving my skills through hands-on learning and projects.<br/>
 
 
 
@@ -97,7 +100,7 @@ About Me: 😊<vr/><br/>
  Visitor Count:
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ashi-78/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/manishsingh-78/count.svg" alt="Visitor Count" />
 </p>
 
 <br/>
