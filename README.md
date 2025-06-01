@@ -45,7 +45,7 @@ About Me: 😊<br/><br/>
   <a href="https://www.linkedin.com/in/ashi-k-a89061304" target="_blank">
     <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="81" height="81">
   </a>
-  <a href="https://www.facebook.com/share/19j45P5dsL/" target="_blank">
+  <a href="https://www.facebook.com" target="_blank">
    <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="81" height="81">
   </a>
   <a href="https://www.instagram.com/thedreamweaver.22?igsh=ZGEzNHMydHdhOGd4" target="_blank">
@@ -102,7 +102,7 @@ About Me: 😊<br/><br/>
  Visitor Count:
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/manishsingh-78/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/ashi-78/count.svg" alt="Visitor Count" />
 
 </p>
 
