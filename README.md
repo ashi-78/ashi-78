@@ -5,7 +5,7 @@
 <h1 align="center">Hi , I'm Ashi Kashyap <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ashi-78/ashi-78/main/banner.jpg" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ashi-78/ashi-78/main/banner.png" alt="Banner" width="100%" />
 </div>
 
 <br>
